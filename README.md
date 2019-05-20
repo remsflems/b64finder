@@ -1,7 +1,7 @@
 # b64finder - Base64 pattern finder
 By RemsFlems.
 
-More Remsflems work at hrttps://talk2me.freeboxos.fr
+More Remsflems work at https://talk2me.freeboxos.fr
 ###### DESCRIPTION #######
 	This program will let you find any bas64 pattern into any files.
 
